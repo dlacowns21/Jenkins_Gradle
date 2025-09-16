@@ -1,3 +1,3 @@
 # JPA_Gradle Jenkins 
 
-Test
+Test text
